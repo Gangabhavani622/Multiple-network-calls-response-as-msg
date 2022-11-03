@@ -11,4 +11,4 @@ app.get("/about", (request, response) => {
 });
 
 app.listen(3000);
-module.exports = express;
+module.exports = app;
